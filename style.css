@@ -1,0 +1,251 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F4F7FB;
+    font-family: Arial, Helvetica, sans-serif;
+    ;
+}
+
+
+.container {
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+/* Header */
+
+.header {
+    background-color: #174578;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.header .heading p {
+    color: #B9DCFF;
+}
+
+.header .heading h1 {
+    color: #ffffff;
+
+}
+
+.links a {
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(255, 255, 255, 0.126);
+    border: 1px rgba(255, 255, 255, 0.284) solid;
+    text-decoration: none;
+
+}
+
+.links {
+    padding: 20px;
+}
+
+
+/* About Me */
+
+.about-me img {
+    width: 20%;
+    border-radius: 50%;
+    margin-right: 20px;
+    border: solid 5px #E8F4FF;
+
+
+}
+
+hr {
+    border: solid 0.2px #acd0f255;
+    margin-bottom: 20px;
+}
+
+.about-me {
+    background-color: white;
+    border-radius: 10px;
+    border: 0.5px solid rgba(0, 0, 0, 0.101);
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+
+.clear {
+    clear: both;
+}
+
+.desc {
+    width: 76%;
+}
+
+.float {
+    float: left;
+
+}
+
+
+.about-me h2 {
+    color: #174578
+}
+
+strong {
+    color: #0B65AD;
+}
+
+.small {
+    font-size: 16px;
+}
+
+.medium {
+    font-size: 18px;
+
+}
+
+.desc a {
+    margin-top: 10px;
+    background-color: #0B65AD;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    text-decoration: none;
+    float: left;
+}
+
+
+
+
+/* Skills */
+.my-skilss h2 {
+    color: #174578
+}
+
+.my-skilss {
+
+    background-color: white;
+    border-radius: 10px;
+    border: 0.5px solid rgba(0, 0, 0, 0.101);
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 20px;
+
+}
+
+
+
+
+.carts .cart {
+    background-color: #0b64ad0c;
+    border-radius: 20px;
+    border: 0.5px solid rgba(0, 0, 0, 0.101);
+    width: 22%;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.carts .cart h3 {
+    color: #0B65AD;
+
+}
+
+
+
+/* Experience */
+.exper h2 {
+    color: #174578
+}
+
+
+
+.exper {
+
+    background-color: white;
+    border-radius: 10px;
+    border: 0.5px solid rgba(0, 0, 0, 0.101);
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 20px;
+
+}
+
+.senior img {
+    width: 10%;
+    border: solid 2.5px #E8F4FF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: white;
+
+}
+
+.senior {
+    background-color: #F4F7FB;
+    padding: 20px;
+    border: 1px rgba(13, 0, 0, 0.050) solid;
+    border-radius: 20px;
+    border-left: #0B65AD 5px solid;
+    margin-bottom: 20px;
+}
+
+.body-desc h4 {
+    color: #0B65AD;
+}
+
+
+/* Contact Me */
+.contact {
+
+
+    background-color: #174578;
+    border-radius: 10px;
+    border: 0.5px solid rgba(0, 0, 0, 0.101);
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 20px;
+
+}
+
+.contact h2 {
+    color: white;
+
+}
+
+
+.contact p {
+    color: white;
+
+}
+
+.links2 {
+    padding-top: 10px;
+}
+
+.links2 a {
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(255, 255, 255, 0.126);
+    border: 1px rgba(255, 255, 255, 0.284) solid;
+    text-decoration: none;
+
+}
+
+
+/* Footer */
+.footer {
+    background-color: #071A35;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.footer span {
+    color: #7BC8FF;
+}
